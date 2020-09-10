@@ -57,9 +57,12 @@ https://binaryanalysisplatform.github.io/bap/api/master/bap-core-theory/Bap_core
 Repos with code that uses Core Theory, the new datalog based API:
 https://gist.github.com/ivg/bbd1ba6d9362e778e723a467a3f8c8b0
 
+BIL Semantics
 https://github.com/BinaryAnalysisPlatform/bap/blob/master/plugins/bil/bil_semantics.ml
 
+BIL semantics for floats
 https://github.com/BinaryAnalysisPlatform/bap/blob/master/plugins/bil/bil_float.ml
+The Binary Lifter
 https://github.com/BinaryAnalysisPlatform/bap/blob/master/plugins/bil/bil_lifter.ml
 
 
