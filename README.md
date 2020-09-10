@@ -135,3 +135,24 @@ BIL
 On soundness:
 https://cacm.acm.org/blogs/blog-cacm/236068-soundness-and-completeness-with-precision/fulltext
 https://blog.sigplan.org/2019/08/07/what-does-it-mean-for-a-program-analysis-to-be-sound/
+
+
+
+
+
+CFG stuff
+
+A paper on a program that uses BAP and angr, and goes into the differences between the construction of CFGs why one is preferable over another
+https://arxiv.org/pdf/1807.05843 
+
+On forced Execution for constructing CFGs
+
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.221.5538
+
+
+CFG analysis in Angr
+https://docs.angr.io/built-in-analyses/cfg
+
+
+--
++-
