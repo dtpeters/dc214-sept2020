@@ -154,5 +154,9 @@ CFG analysis in Angr
 https://docs.angr.io/built-in-analyses/cfg
 
 
+
+An interesting paper comparing the relative usability of BAP and Angr
+http://tyconmismatch.com/papers/nfm2019_bap_angr.pdf
+
 --
 +-
